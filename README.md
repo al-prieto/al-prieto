@@ -1,4 +1,4 @@
-<a href="#"><center/><img width="50%" height="auto" src="https://img.freepik.com/vector-gratis/hacker-que-opera-ilustracion-icono-historieta-ordenador-portatil-concepto-icono-tecnologia-aislado-estilo-dibujos-animados-plana_138676-2387.jpg?w=740&t=st=1647799094~exp=1647799694~hmac=ef241f32cb5d6222cc82b6e8fb9d9db04aeb1eb1f976804cd759a7d0cbb969eb" height="175px"/></a>
+<a href="#"><center><img width="50%" height="auto" src="https://img.freepik.com/vector-gratis/hacker-que-opera-ilustracion-icono-historieta-ordenador-portatil-concepto-icono-tecnologia-aislado-estilo-dibujos-animados-plana_138676-2387.jpg?w=740&t=st=1647799094~exp=1647799694~hmac=ef241f32cb5d6222cc82b6e8fb9d9db04aeb1eb1f976804cd759a7d0cbb969eb" height="175px"/><center/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Alejandro</h1>
 <h3 align="center">I'm a passionate Frontend Developer learner from Colombia.</h3>
